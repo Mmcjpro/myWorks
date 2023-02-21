@@ -1,1 +1,2 @@
 !!!my new works!!!
+this is one of html tags <!DOCTYPE html>
